@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/main"
+                android:title="@string/main" />
+        <item android:title="@string/sections">
+            <menu>
+                <item
+                    android:id="@+id/news"
+                    android:title="@string/news" />
+                <item
+                    android:id="@+id/opinion"
+                    android:title="@string/opinion" />
+                <item
+                    android:id="@+id/features"
+                    android:title="@string/features" />
+                <item
+                    android:id="@+id/centerspread"
+                    android:title="@string/center_spread" />
+                <item
+                    android:id="@+id/literary"
+                    android:title="@string/literary" />
+                <item
+                    android:id="@+id/arts"
+                    android:title="@string/arts" />
+                <item
+                    android:id="@+id/sports"
+                    android:title="@string/sports" />
+                <item
+                    android:id="@+id/backpage"
+                    android:title="@string/back_page" />
+            </menu>
+        </item>
+    </group>
+
+
+</menu>

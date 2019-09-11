@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">The Tattler</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">The IHS Tattler</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="sections">Sections</string>
+    <string name="main">Main</string>
+    <string name="news">News</string>
+    <string name="opinion">Opinion</string>
+    <string name="features">Features</string>
+    <string name="center_spread">Center Spread</string>
+    <string name="literary">Literary</string>
+    <string name="arts">Arts</string>
+    <string name="sports">Sports</string>
+    <string name="back_page">Back Page</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+    <string name="default_name_storage">Enter Your Name</string>
+    <string name="pref_title_notifications">Notifications</string>
+    <string name="summary_choose_ringtone">Choose notification sound</string>
+    <string name="pref_header_about">About</string>
+    <string name="summary_about">The Tattler is the student-run newspaper of Ithaca High School. It was founded in 1892 and is published monthly. This mobile app was created by Ithaca High School senior Tony Yang</string>
+    <string name="app_version">1.0</string>
+    <string name="summary_support">Got any queries? We are happy to help!</string>
+    <string name="title_send_feedback">Send Feedback</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="url_privacy">https://www.ihstattler.com/</string>
+    <string name="title_terms">Terms &amp; Conditions</string>
+    <string name="url_terms">https://www.ihstattler.com/</string>
+    <string name="title_version">Version</string>
+    <string name="choose_email_client">Choose email client</string>
+    <string name="title_name_storage">User Name</string>
+    <string name="title_new_notification_sound">New article notification</string>
+    <string name="title_vibrate">Vibrate</string>
+    <string name="summary_vibrate">Vibrate on new notification</string>
+    <string name="key_upload_over_wifi">key_upload_over_wifi</string>
+    <string name="key_gallery_name">key_gallery_name</string>
+    <string name="key_upload_quality">key_upload_quality</string>
+    <string name="notifications_new_message">notifications_new_message</string>
+    <string name="key_notifications_new_message_ringtone">key_notifications_new_message_ringtone</string>
+    <string name="key_vibrate">key_vibrate</string>
+    <string name="key_send_feedback">key_send_feedback</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="title_activity_opinion">OpinionActivity</string>
+    <string name="title_activity_features">FeaturesActivity</string>
+    <string name="title_activity_center_spread">CenterSpreadActivity</string>
+    <string name="title_activity_literary">LiteraryActivity</string>
+    <string name="title_activity_arts">ArtsActivity</string>
+    <string name="title_activity_sports">SportsActivity</string>
+    <string name="title_activity_backpage">BackpageActivity</string>
+</resources>
