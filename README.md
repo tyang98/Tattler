@@ -4,15 +4,8 @@ This is an Android application for the Ithaca High School Tattler, a student-run
 
 # Screenshots
 
-<div align="center">
-    <img src="/screenshots/splash.jpg" width="400px"</img> 
-</div>
+![image](https://raw.githubusercontent.com/tyang98/Tattler/master/screenshots/home.png)
 
-<div align="center">
-    <img src="/screenshots/nav.jpg" width="400px"</img> 
-</div>
+![image](https://raw.githubusercontent.com/tyang98/Tattler/master/screenshots/nav.png)
 
-<div align="center">
-    <img src="/screenshots/home.jpg" width="400px"</img> 
-</div>
-
+![image](https://raw.githubusercontent.com/tyang98/Tattler/master/screenshots/splash.png)
